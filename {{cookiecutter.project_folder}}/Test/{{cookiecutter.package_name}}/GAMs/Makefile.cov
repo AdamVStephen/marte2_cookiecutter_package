@@ -1,0 +1,11 @@
+{{cookiecutter.license}}
+
+TARGET=cov
+
+include Makefile.inc
+
+{{cookiecutter.cov_libraries_static}}
+
+ifdef EFDA_MARTe_DIR
+LIBRARIES_STATIC+=BaseLib2GAM/cov/BaseLib2GAMTest$(LIBEXT)
+endif

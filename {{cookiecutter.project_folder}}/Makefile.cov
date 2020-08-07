@@ -1,0 +1,7 @@
+{{cookiecutter.license}}
+
+TARGET=cov
+
+include Makefile.inc
+
+

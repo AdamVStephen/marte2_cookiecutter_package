@@ -1,0 +1,4 @@
+{{cookiecutter.license}}
+
+include Makefile.inc
+

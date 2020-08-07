@@ -1,0 +1,3 @@
+# License generated at {{cookiecutter.timestamp}}
+
+{{cookiecutter.license}}

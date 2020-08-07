@@ -1,0 +1,15 @@
+{
+    "project_folder" : "MARTe2-custom",
+    "package_name" : "Custom",
+    "description" : "Another fine set of GAMs",
+    "license" : "# License : TBA",
+    "datasources" : "False",
+    "gams" : "True",
+    "interfaces" : "False",
+    "timestamp" : "{{ cookiecutter.timestamp }}",
+    "subprojects" : "{{ cookiecutter.subprojects }}",
+    "cov_libraries_static" : "{{ cookiecutter.cov_libraries_static }}",
+    "gams_subprojects" : "{{ cookiecutter.gams_subprojects }}",
+    "gams_libraries_static" : "{{ cookiecutter.gams_libraries_static }}",
+    "gams_test_libraries_static" : "{{ cookiecutter.gams_test_libraries_static }}"
+}
