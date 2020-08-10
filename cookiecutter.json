@@ -1,5 +1,5 @@
 {
-    "package_folder" : "MARTe2-custom",
+    "root_folder" : "MARTe2-custom",
     "package_name" : "Custom",
     "description" : "Another fine set of GAMs",
     "license" : "# License : TBA",
