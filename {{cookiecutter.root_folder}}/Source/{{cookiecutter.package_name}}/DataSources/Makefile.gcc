@@ -1,0 +1,5 @@
+{{cookiecutter.license}}
+
+TARGET=x86-linux
+
+include Makefile.inc
